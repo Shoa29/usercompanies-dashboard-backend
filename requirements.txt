@@ -1,0 +1,11 @@
+sqlalchemy
+Flask
+Flask-Admin
+Flask-User
+Flask-Security
+Flask-SQLAlchemy
+bcrypt
+Flask-Bcrypt
+flask-security-too
+flask-restx
+psycopg2
